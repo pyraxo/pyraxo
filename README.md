@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pyraxo@pyraxo.moe**
 
-- 📄 Know about my experiences [https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
+- 📄 Know about my experiences: [Resume](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
