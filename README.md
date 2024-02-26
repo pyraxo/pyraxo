@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/aa_tzy" target="blank"><img src="https://img.shields.io/twitter/follow/aa_tzy?logo=twitter&style=for-the-badge" alt="aa_tzy" /></a> </p>
 
-- 🌱 I’m currently learning **LLMs, XR**
+- 🌱 I’m currently learning about **LLMs, XR**
 
 - 👨‍💻 All of my projects are available at [aarontua.com](aarontua.com)
 
 - 💬 Ask me about **product, design**
 
-- 📫 How to reach me **pyraxo@pyraxo.moe**
+- 📫 Contact me at **[pyraxo@pyraxo.moe](mailto:pyraxo@pyraxo.moe)**
 
 - 📄 Know about my experiences: [Resume](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
 
