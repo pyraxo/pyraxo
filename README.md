@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **product, design**
 
-- 📫 Contact me at **[pyraxo@pyraxo.moe](mailto:pyraxo@pyraxo.moe)**
+- 📫 Contact me at **[hello@aarontua.com](mailto:hello@aarontua.com)**
 
 - 📄 Know about my experiences: [Resume](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
 
