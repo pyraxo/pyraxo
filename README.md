@@ -1,5 +1,7 @@
 ## product, design & AI
 
+### 🔋 strictly powered by weekend projects
+
 🌱  currently learning: **LLMs, digital twins**<br />
 👨‍💻  personal website: [aarontua.com](aarontua.com)<br />
 📫  contact: **[hello@aarontua.com](mailto:hello@aarontua.com)**<br />
