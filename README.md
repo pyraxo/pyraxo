@@ -2,7 +2,7 @@
 
 ### 🔋 strictly powered by weekend projects
 
-🌱  currently learning: **LLMs, digital twins**<br />
+🌱  currently learning: **genAI**<br />
 👨‍💻  personal website: [aarontua.com](aarontua.com)<br />
 📫  contact: **[hello@aarontua.com](mailto:hello@aarontua.com)**<br />
 📄  resume: [Resume](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
