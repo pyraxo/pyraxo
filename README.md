@@ -5,7 +5,7 @@
 🌱  currently learning: **genAI**<br />
 👨‍💻  personal website: [aarontua.com](aarontua.com)<br />
 📫  contact: **[hello@aarontua.com](mailto:hello@aarontua.com)**<br />
-📄  resume: [Resume](https://aarontua.com/assets/Aaron%20Tua_SWE_UCB.pdf)
+📄  resume: [Resume](https://drive.google.com/open?id=10BMNKuKnEMuwRG16uTM_6dMn9CHtQep-&usp=drive_fs)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
