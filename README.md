@@ -1,11 +1,14 @@
-## product, design & AI
+### Hello world! 🌎
 
-### 🔋 strictly powered by weekend projects
+🤖 Design and AI student @ SUTD<br />
+Multi-disciplinary student bridging design, AI and software engineering.
 
-🌱  currently learning: **genAI**<br />
-👨‍💻  personal website: [aarontua.com](aarontua.com)<br />
-📫  contact: **[hello@aarontua.com](mailto:hello@aarontua.com)**<br />
-📄  resume: [Resume](https://drive.google.com/open?id=10BMNKuKnEMuwRG16uTM_6dMn9CHtQep-&usp=drive_fs)
+🔋 I build products with chaotic curiosity. Powered by weekend projects and hackathons.
+
+🌐  Find me on the internet:
+- 🏠 Visit my personal site @ [aarontua.com](aarontua.com)
+- 📫 Contact me @ **[hello@aarontua.com](mailto:hello@aarontua.com)**
+- 📄 Looking for internships: [My resume](https://drive.google.com/open?id=10BMNKuKnEMuwRG16uTM_6dMn9CHtQep-&usp=drive_fs)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
