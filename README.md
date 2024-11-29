@@ -5,6 +5,11 @@ Multi-disciplinary student bridging design, AI and software engineering.
 
 🔋 I build products with chaotic curiosity. Powered by weekend projects and hackathons.
 
+🏆  Previous hackathons:
+- [Berkeley AI Hackathon](https://aarontua.com/projects/hearmeout)
+- [SFHacks](https://aarontua.com/projects/greenflags)
+- [Stanford Treehacks](https://www.aarontua.com/projects/langur)
+
 🌐  Find me on the internet:
 - 🏠 Visit my personal site @ [aarontua.com](aarontua.com)
 - 📫 Contact me @ **[hello@aarontua.com](mailto:hello@aarontua.com)**
