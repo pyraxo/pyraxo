@@ -11,7 +11,7 @@ Multi-disciplinary student bridging design, AI and software engineering.
 - [Stanford Treehacks](https://www.aarontua.com/projects/langur)
 
 🌐  Find me on the internet:
-- 🏠 Visit my personal site @ [aarontua.com](aarontua.com)
+- 🏠 Visit my personal site @ [aarontua.com](https://aarontua.com)
 - 📫 Contact me @ **[hello@aarontua.com](mailto:hello@aarontua.com)**
 - 📄 Looking for internships: [My resume](https://drive.google.com/open?id=10BMNKuKnEMuwRG16uTM_6dMn9CHtQep-&usp=drive_fs)
 
