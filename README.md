@@ -9,6 +9,7 @@ Multi-disciplinary student bridging design, AI and software engineering.
 - [Berkeley AI Hackathon](https://aarontua.com/projects/hearmeout)
 - [SFHacks](https://aarontua.com/projects/greenflags)
 - [Stanford Treehacks](https://www.aarontua.com/projects/langur)
+- [Cursor Hackathon](https://www.linkedin.com/posts/aarontzy_for-cursors-first-ever-singapore-hackathon-activity-7386045257169252352-T_uT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACXpJgYBFJhJr8pVg7_gBi-TOp0fFZMIjNg)
 
 🌐  Find me on the internet:
 - 🏠 Visit my personal site @ [aarontua.com](https://aarontua.com)
